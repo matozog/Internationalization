@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Elements>
+    <Element>
+        <Name>Pen</Name>
+        <Amount>2</Amount>
+        <Price>3.0</Price>
+        <DateOfAddition>06/03/2018</DateOfAddition>
+    </Element>
+    <Element>
+        <Name>Pear</Name>
+        <Amount>1</Amount>
+        <Price>15.0</Price>
+        <DateOfAddition>07/03/2018</DateOfAddition>
+    </Element>
+</Elements>
