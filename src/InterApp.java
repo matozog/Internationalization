@@ -390,8 +390,6 @@ public class InterApp implements ActionListener{
 		messageForm.applyPattern(pattern);
 		ChoiceFormat choiceForm = new ChoiceFormat(fileLimits, fileStrings);
 		
-
-		
 		Format[] formats = {choiceForm, null, NumberFormat.getInstance()};
 		messageForm.setFormats(formats);
 		
@@ -400,6 +398,7 @@ public class InterApp implements ActionListener{
 	    	    
 	    return result;
 	}
+
 	
 	public void marshall()
 	{
